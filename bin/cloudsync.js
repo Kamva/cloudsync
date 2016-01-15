@@ -50,7 +50,7 @@ for (var cloud in config) {
           console.log();
         })
       break;
-    case 'aliyun-oss-':
+    case 'aliyun-oss':
       ossSync(config[cloud]).exec()
         .then(function() {
           console.log();
