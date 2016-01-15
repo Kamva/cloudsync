@@ -16,7 +16,7 @@ $   -i, --incremental-mode  Only upload new/changed file
 _**NOTE**_: Currently only support Aliyun(OSS) and AWS(S3) at this time.
 
 ### Configuration file
-create the ```.clondsync.json``` file in your current working directory.
+create the ```.cloudsync.json``` file in your current working directory.
 
 ```json
 {
