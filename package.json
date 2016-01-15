@@ -1,6 +1,6 @@
 {
   "name": "cloudsync",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "index.js",
   "license": "MIT",
   "description": "Sync files to cloud storage services",
