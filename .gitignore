@@ -1,0 +1,6 @@
+node_modules
+/dev
+/test
+*.log
+.*sync.json
+.*sync

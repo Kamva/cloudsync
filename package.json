@@ -1,0 +1,35 @@
+{
+  "name": "cloudsync",
+  "version": "0.1.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Sync files to cloud storage services",
+  "homepage": "https://github.com/raecoo/cloudsync#readme",
+  "author": {
+    "email": "raecoo@gmail.com",
+    "name": "Raecoo Cao",
+    "url": "raecoo.com"
+  },
+  "bin" : {
+    "cloundsync": "./bin/cloudsync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raecoo/cloudsync.git"
+  },
+  "keywords": [
+    "aliyun",
+    "oss",
+    "aws",
+    "s3",
+    "cloud",
+    "sync"
+  ],
+  "bugs": {
+    "url": "https://github.com/raecoo/cloudsync/issues"
+  },
+  "dependencies": {
+    "aws-s3-sync": "^0.1.4",
+    "oss-sync": "^0.4.2"
+  }
+}
