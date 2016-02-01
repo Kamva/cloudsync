@@ -34,6 +34,7 @@ create the ```.cloudsync.json``` file in your current working directory.
     "accessKeyId": "aws-s3-key-id",
     "secretAccessKey": "aws-s3-access-key",
     "region": "us-west-2",
+    "cacheControl": "max-age:3600"
     "bucket": "bucket-name"
   }
 }

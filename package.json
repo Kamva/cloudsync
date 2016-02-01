@@ -1,6 +1,6 @@
 {
   "name": "cloudsync",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "main": "index.js",
   "license": "MIT",
   "description": "Sync files to cloud storage services",
@@ -40,7 +40,7 @@
     "ncp": "^2.0.0",
     "progress": "^1.1.8",
     "rimraf": "^2.4.2",
-    "aws-s3-sync": "^0.1.5",
+    "aws-s3-sync": "^0.1.7",
     "oss-sync": "^0.4.2"
   }
 }
